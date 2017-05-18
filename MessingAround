@@ -5,7 +5,7 @@ ec2 = boto3.client('ec2')
 
 def getMyInstances():
     myInstances = ec2.describe_instances()
-    for vms in myInstances
-    pprint(vms)
+    for vms in myInstances:
+        pprint(vms)
 
 getMyInstances()
