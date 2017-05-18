@@ -288,6 +288,7 @@ if "eu" in region: print("European region")
 * [Python Click](http://click.pocoo.org/5/)
 * [Python - Plotly (Graphs)](https://plot.ly/python/offline/)
 * [Python Pandas - In-memory](http://pandas.pydata.org/)
+* [Faker - Random Fake Data for day-to-day use](https://github.com/joke2k/faker)
 
 **Windows only**
 
