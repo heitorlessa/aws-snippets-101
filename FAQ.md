@@ -279,12 +279,15 @@ if "eu" in region: print("European region")
 * [Official Python Docs FAQ](https://docs.python.org/2/faq/programming.html)
 * [TutorialPoint - Defining a function](https://www.tutorialspoint.com/python/python_functions.htm)
 * [VSCode for Python Development](https://medium.com/small-things-about-python/use-visual-studio-code-for-python-development-5d59c8479add)
-* [Dan Bader](https://dbader.org/)
+* [Dan Bader - Code Review and useful tutorials](https://dbader.org/)
 * [String Formatting Plain and Clear](https://pyformat.info/)
 * [Python Module of the Week](http://pymotw.com/2/contents.html)
 * [Python Tricks for Beginners](https://www.codementor.io/sumit12dec/python-tricks-for-beginners-du107t193)
 * [First steps with Python Boto on AWS](https://linuxacademy.com/howtoguides/posts/show/topic/14209-automating-aws-with-python-and-boto3)
 * [Python Boto - S3 File Handling](https://dzone.com/articles/file-handling-in-amazon-s3-with-python-boto-librar)
+* [Python Click](http://click.pocoo.org/5/)
+* [Python - Plotly (Graphs)](https://plot.ly/python/offline/)
+* [Python Pandas - In-memory](http://pandas.pydata.org/)
 
 **Windows only**
 
