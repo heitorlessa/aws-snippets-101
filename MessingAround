@@ -1,10 +1,11 @@
 import boto3    
+from pprint import pprint
 
 ec2 = boto3.client('ec2')
 
 def getMyInstances():
-    myInstances = ec2.Instance.describe_instances()
+    myInstances = ec2.describe_instances()
     for vms in myInstances
-    print(vms)
+    pprint(vms)
 
 getMyInstances()
