@@ -1,0 +1,11 @@
+import boto3    
+from pprint import pprint
+
+ec2 = boto3.client('ec2')
+
+def getMyInstances():
+    myInstances = ec2.describe_instances()
+    for vms in myInstances['Reservations']:
+        pprint (vms)
+
+getMyInstances()
